@@ -70,3 +70,10 @@
 
 ###
 
+
+
+
+<img src="https://raw.githubusercontent.com/kuyaw/kuyaw/output/snake.svg" alt="Snake animation" />
+
+###
+
