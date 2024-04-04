@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bry and I'm a full-stack web developer, from Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Bry and I'm an aspiring full-stack web developer, from Philippines.</h2>
 
 
 <h3 align="left">🔥   My Stats :</h3>
