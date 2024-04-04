@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Bry and I'm an aspiring full-stack web developer, from Philippines.</h2>
+###<h1 align="center">Hi 👋, I'm Bryan</h1>
+<h3 align="center">An aspiring full-stack web developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuyaw&label=Profile%20views&color=0e75b6&style=flat" alt="kuyaw" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuyaw" alt="kuyaw" /></a> </p>
+
+- 📫 How to reach me **solonbryan54@gmail.com**
 
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -101,5 +108,13 @@
 
 
 
-###
+
+
+
+
+
+
+
+
+
 
